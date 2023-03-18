@@ -1,5 +1,7 @@
 # Wiki de Repositório
 
+
+
 Este projeto é uma wiki de repositório desenvolvida em React JavaScript. Ele permite que você visualize e pesquise informações sobre um repositório específico do GitHub, fornecendo o nome do usuário e do repositório na URL.
 
 ## Descrição do funcionamento do código
